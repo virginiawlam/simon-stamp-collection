@@ -3,4 +3,4 @@ Simon's Stamp Collection App
 
 # About Simon
 
-Stuff about Simon's Stamp here...
+New York Times raves this is the best stamp collection of the ages!
